@@ -1,0 +1,16 @@
+title: 皮皮虾的博客
+description: 一个简约的个人博客
+author: pipixia77
+theme: minima
+
+show_excerpts: true
+
+minima:
+  skin: classic
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
